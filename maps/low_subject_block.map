@@ -1,0 +1,458 @@
+/liked you\!$/
+/is waiting for your answer\!$/
+/has shared a file with you/i
+/real girls/i
+/private message/i
+/failed email deliveries/i
+/Your mailbox is almost full/i
+/Attendees list/i
+/Check your pm on account/i
+/Live chat with/i
+/New videos with/i
+/Now you can look through/i
+/You can get in direct access with/i
+/You have a chance to look/i
+/You were granted access to/i
+/Your last video caught/i
+/adult pics/i
+/claim pics/i
+/free pics/i
+/hidden album users/i
+/hidden albums/i
+/hidden picture/i
+/liked your latest album/i
+/now sharing her personal album with you/i
+/personal album/i
+/personal images/i
+/personal pics/i
+/personal pictures is now available to you/i
+/photos is granted/i
+/pictures are now opened/i
+/private album/i
+/private images/i
+/private photos viewers/i
+/would like voice call you/i
+/Tamika is looking for Housekeepers in Germantown/i
+#smtp cracker
+/You get a new smtp/i
+#another smtp cracker
+/12345/i
+# a lot of spam with YO! something like Yo!.Popular solution
+/^Yo\!/i
+/Medical Supply Company/i
+/Update Price List/i
+/Train Online/i
+/brand and generic/i
+/Termination Notice/i
+/industry Insights/i
+# password theft?
+/SMTP LOG \| HOST:/i
+/Invest In Crypto/i
+/sexxy ladies/i
+/attractive females/i
+/24 HOUR Pharmacy/i
+/make her sweat/i
+/Your account has been suspended/i
+/Your account has been disabled/i
+/Security Issues./i
+/Important Notification/i
+/The input file has been corrupted/i
+/Kaizen Certification/i
+/Bill For Payment/i
+/Key Decision Makers/i
+/Tinnitus/i
+/Whatsapp api/i
+/e\-Mails Queued on Server/i
+/Action Required/i
+/Diabetes/i
+/lnsuranceSavingsALERT/i
+/attendee database/i
+/You got invoice from DocuSign Service/i
+/VIAGRA/i
+/SEO Proposal/i
+/^QUOTATION REQUEST$/
+/Real exclusive products/i
+/File has been corrupted/i
+/Files has been successfully published/i
+/Pharmacy Online/i
+/Without Prescription/i
+#match start of white space
+/(^|\s)cialis/i
+/Levitra/i
+/Unsecured Funding/i
+/ELON MUSK/i
+/Deactivation Notification/i
+/SHUTDOWN ACTIVITY IN PROGRESS/i
+/Hello from.*@.*/i
+/Osteoporosis/i
+/WEAK BONES/i
+/Your Account Has Been Closed/i
+/Project Funding/i
+/Shell Send/i
+/death of my late client/i
+/ONLINE WITHOUT PRESCRIPTIONS/i
+/ONLINE HEALTH SHOP/i
+/Suspicious Login Attempt/i
+/Ich bin so/i
+/Secure your Password/i
+/MEETING w\/ MMG/i
+/Welcome to Dating/i
+/XXX Dating/i
+/Welcome to Private/i
+/Welcome to Adult dating/i
+/Notify/
+/earn up to/i
+/Construction customers Database/i
+/gutter cleaning/i
+/LeafFilter/i
+/Page 1 Google ranking/i
+/has left you a message/i
+/Smtp \#/i
+/network hacked/i
+/on your brand/iu
+/Bill for Payment \#/i
+/Evite o bloqueio preventivo dos seus/iu
+/added you in her friends list/i
+/Advanced SEO plans/i
+/Voice Message Notification/i
+/Sup\,/
+/^Yo\,/
+/^Salutations\,/
+/^Hiya/
+/^Login Credentials$/
+/treatment at CS Animal Hydro/i
+/Wir haben/i
+/^SPECIAL OFFER$/
+/Professional Proofreading and Editing Service/
+/Bitte nehmen/i
+/medications/
+/Neues Kundenverfahren/i
+/100\% Natural/i
+/^WHOLESALE ACCOUNT OPENING REQUEST$/i
+/Are you alone/i
+/^invoice$/
+/^Consultio$/
+/Horny/i
+/LOAN OFFER/i
+/policy update/i
+/^Your DHL/i
+/^Faith\!$/
+/^Instagram Copyright$/
+/^Copyright$/
+/^Appointment\/\.$/
+/^Warning\: E-mail viruses detected$/
+/DHL Express Courier Pickup Confirmation/i
+/Payment Update Required/i
+/FDA Approved/i
+/Delivery at home/i
+/Warning\: E-mail viruses detected/
+/Satisfaction Guarantee/
+/^Incoming Fax/
+/^Incoming voicemail/
+/porn/i
+/nude/i
+/Funding for your projects/
+/\[IWE\]/
+/HOT GIRL/
+/^Payment of/
+/Your account has been suspended for security reasons/
+/^DU HAST GEWONNEN$/
+/^Verifica Email/
+/Un site de rencontre populaire/
+/Money Received/
+/^Welcome Mail$/
+/^Important Information$/
+/onedrive/i
+/^Account Locked\:/
+# spam subject with 0 not O
+/Satisfacti0n/i
+/H0me/i
+/pr0ducts/i
+/L0VE/i
+/St0re/
+#
+/^smtp/i
+/New Shopper Survey Offer/i
+/Your Offer is waiting/
+/^Your Netflix/i
+/Account Shutdown Request/i
+/BUSINESS OPPORTUNITY/i
+/effective drug/i
+/Your item is unclaimed/
+/^Password expiration set/
+/New document share via dropbox/
+/Account Update Required/
+/^Copy of\:/
+/smtp sever error$/
+/Cheap Social Media Services/i
+/Gummies/i
+/welcome gift offer inside/
+/MaxBulk Mailer Delivery Report/
+/pretty girls/i
+/Having trouble growing on Instagram/i
+/^Final Notice$/
+/welcome gift offer inside/i
+/Partnership Proposal/
+/t0day/i
+/st0re/i
+/0ffer/i
+/LICITUD DE COTIZACION/
+/SOLICITUD DE COTIZACION/
+/DocuSign Electronic Signature/
+/Review and Sign this document/
+/Y0urs/i 
+/w0rld/i 
+/appr0ved/i
+/Disc0unt/i
+/SP0TlFY/i
+/D\.H\.L\: Your package has reached the country/i
+/Super Active Pack/i
+/a new career opportunity/i
+/^Get Hired$/
+/^Offer for you$/
+/^Work with us$/
+/^We\'re hiring$/
+/^Exciting New Career Opportunity/i
+/PRODUCT OF THE DAY/
+/New voicemail\(s\)\, (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sept|Oct|Nov|Dec)/
+/Gotta a min to talk/
+/FedEx International (Notice|Ticket)/i
+/FedEx Notice \#/i
+/United States Postal Service new message \#/i
+/USPS (ticket|notification) No/i
+/Hi\, do you remember me/
+/Hi\! remember me\?/
+/Hi\! do you need a job/
+/^Important$/
+/^Your mailbox is full/
+#tester
+/^hallo bro$/
+/^Important Security Notification/
+/Better Search Results with low investment/
+/ALGEMENE VOORWAARDEN VOOR HET VERKRIJGEN VAN DE LENING/
+/\[ScQWander\] Your username and password info/
+/Ref\: Reply Me/i
+/You have received an important online message/
+/New letter from Inland Revenue/
+/Incoming Voice Message/
+/Private Voice Mail/
+/Private Voice Message/
+/Personal Voicemail/
+/Personal Voicemessage/
+/Warning\: E\-mail viruses detected/
+/updated billing documentation/
+/Optimum Credit/i
+/E\-voiceMsg/i
+/from Geek Squad Services/i
+/one drive/i
+/ach payment/i
+/mailbox is unable to send email/i
+/Super Discounts/i
+/\[Coinbase\]/i
+/keybank/i
+/password expired/i
+/Shopper\, You can qualify/i
+/Expire Request/i
+/New Audio Message/i
+/^Santander\.S\.A \-/
+/\,465\,/
+/^Delayed Delivery$/
+/^Confidential Information$/i
+/Incoming voice mail/i
+/Incoming voicemessage/i
+/Missed voice mail/i
+/Incoming voice message/i
+/Louis Vuitton/i
+/^Dear friend$/i
+/^We ship worldwide$/
+/^Proffer$/
+/PRODUCT OF THE DAY/i
+/^how r u$/
+/^Only Exclusive Products$/
+/^Investment Request$/
+/^Re\. payment slip$/
+/^Incoming Mail Error$/
+/CHARITY PROJECT\!/
+/Eft Remmitance claims/i
+/^Account Expiry Notification$/
+/^Pending payment/
+/^Letter Of Appeal$/
+/^Save up to [0-9]{2}\%$/
+/^Exclusive natural products$/i
+/^ONLY NATURAL PRODUCTS$/i
+/^Discount pack$/i
+/^Missed voicemessage\: [0-9]{2}\:[0-9]{2}$/i
+/DHL Final Notification/i
+/Export To Czech Republic/i
+/ sex /i
+/High\-Quality Products/i
+/^Canadian Dream$/
+/years Worldwide Supplier/i
+/LV Bags Start at/i
+/Prostate/i
+/generic and brand products/i
+/brand medication/i
+/premium generic/i
+/HIGH QUALITY PRODUCTS/i
+/your penis/i
+/medicinal garden/i
+/^Critical security notification$/
+/^Verification needed$/
+/^Verification Required.$/
+/^Immortal started a conversation with you\:/
+/^Important guidelines$/
+/^Urgent update$/
+/Exclusive worldwide store/i
+/^You appeared in [1-9]{1} searches this week$/
+/^Your account was deleted$/
+/www\.linktr\.ee/
+/^RE\:Welcome You Are Approved$/
+#Verify email@domain.com
+/^Verify .*@.*\./
+/^Payment Copy Recieved \#/
+/^Swift Copy\.$/
+/^Please kindly view your attached memo\.$/
+/^Returned Bill$/
+#temporary
+/located in Connecticut\?$/
+/^Exclusive Offer for/
+/^New alert$/
+/^Call Center Services$/
+/^Looking for IT Professionals$/i
+/MaxBulk Mailer/i
+/Bill for Payment \#/
+/\#7076294$/
+/^Documento Factura electronica emitada/
+#Statement: Overdue #10237 Attention: #10237 Due
+/\#10237/
+/^Aviso Urgente$/
+/polyester yarn thread supplier/
+/^Pending Mail$/
+/^DHL\:/
+/Proof of payment deposited/
+/^Kindly confirm$/
+/Colocation Customers Contact Information/
+/Luxury brand niche websites with quality USA and UK Traffic/
+/^Fund Release Approved$/
+/^Important information about your account\.$/i
+/^Online banking notification$/
+/^New notification$/
+/^heyy$/
+/^Investment Offer$/
+/^Instagram \- Verified Badges$/
+/^POSTPONEMENT OF TRAINING$/
+/Pocas horas con 80\% menos/i
+/Sua marca na web/
+/^Netflix\: /i
+/Struggling on Improving Indoor Air Quality\?/i
+/Meeting with CEO/
+/^Direct ACH Deposit Processed$/
+/mailbox is full\.$/
+/looking for fun/i
+/Casual Dating/i
+/Hey \{first_name\}\}/
+/Attendees Email List/i
+/^You\'re the winner/
+/^LOAN$/
+/^investment Partnership$/
+/We attempted to charge it\.$/
+# ok its not bad but these
+# have terrible delivery
+# emails are constantly not found/ndr
+/^Script Updates Available$/
+/Citi\: Please open and follow update/
+/Renew your PO Box lease today/i
+/You are eligible to claim your tax refund/i
+/^Service Center\: ID/
+/^info ID/i
+/^HGGHGH$/
+/^fsdsdfsd$/
+/^We are here to help$/
+/^TD account$/
+/Welcome to kapechain/
+/\[your\-subject\]/
+/Our Delivery Team Failed On Another Attempt To Deliver Your Package Today Due To Incorrect Address/i
+/StanbicIBTC Bank Transaction Notification/
+/^My subject$/
+/^Your safety/i
+/^IMPORTANT \- Update your online account$/
+/POA CC Receipt \- Cust\#/i
+/URGENT ACTION REQUIRED/
+/Ultimo Aviso\. Regularizar impuestos\./
+/Updated financial documentation/
+/^Important Notice$/
+/^Account Alert Login$/
+/^Re\: \{Posible Spam\}/
+/^Re\: Invoice and statement/
+/^Netflix$/i
+/^Payment Confirmation for Transaction Ref\:/
+/^We Need it$/
+/^Donation$/
+/^CITIZENS$/
+/^\#Request for Quotation/
+/^NOUVEAU SITE WEB$/
+/Interested in making a new connection\?/
+/Deactivation Notice$/
+/^Someone matched with you on Tinder\!$/
+/^Track your athletes power with AI$/
+/account will be terminated on/i
+/^Actions Policy for/
+/^Action Needed:/
+/National Bank/
+/^GCash$/
+/^Notice from Support/
+/^importante$/
+/^CHASEBANK$/
+/^Re\: Quick call$/
+/^request for quote$/
+/^Accounting\, tax and Secretarial work outsourcing$/
+/^Services$/
+/^Fast Global Shipping$/
+/lack of funds from my card/i
+/Wichtige Firmeninformationen/
+/Your Metamask wallet has not yet been verified/i
+/^Password Reset\:\:.*\@/
+/P\.ayment/i
+/Renewal by Andersen/i
+/^Msg$/
+/^Account Alert\: Your settings were updated\./
+/^NEW ARRIVALS$/
+/^Payment Declined$/
+/Update Your Billing Information/i
+/AIR WAREBILL INFORMATION/
+/^You have an alert$/
+/^online \- tv licence$/
+/^Urgent notification$/
+/^Your account needs attention$/
+/^You\'ve got a message$/
+/^Order Cancelled$/
+/^amazon\.ca/
+/updates on violations/i
+/Westwood Laboratories/i
+/^RE\: Emailing\:/
+/Urgent Revert Back/
+/Segue Boleto referente/i
+/Tax E\-Payment Confirmation/i
+/^BUSINESS PROPOSAL$/
+/^Re\: Very Urgent$/
+/^Re\: Please Get Back To Me Urgently$/
+/^Message Delivery$/
+/^Unauthorized Requests$/
+/^Required Attention$/
+/^Unauthorized\-Requests\: #/
+/^Important\: Copyright Violation on Your Page/i
+/^PayPal Alert$/i
+/Revenue Growth\: See How We Can Help You/i
+/Association Industry Executives List/i
+/tinyurl\.com/
+/^Job Offer$/
+/Webmail registro Urgente/i
+/^Attention$/
+/Project Investment Opportunity/i
+/Pudgypenguins Reward/i
+/Your Amazon\.com order number is/i
+/Capital Title \- Secure Messaging Notification/i
+/Clear to Close \/ Closing Statements/i
+/^Open invoice notice$/
+/has sent a file/
+/drive\.google\.com/

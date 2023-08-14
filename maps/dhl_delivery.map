@@ -1,0 +1,6 @@
+/\sThis.is.to.notify.you.of.a.shipment.that.has.been.assigned.to\s/i
+/\sThis.shipment.can.be.cleared.only.by\s/i
+/\sDHL.Express.Worldwide\s/i
+/\sdhl_top\/source\s/i
+/\sdhl\/index\s/i
+/YourParcel will be arriving to you today by your mail and package delivery person/i
