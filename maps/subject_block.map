@@ -749,3 +749,6 @@
 /Sehr geehrter Kunde\,/i
 /^Your account has been suspended \!$/
 /^UPS Exception Notification\, Tracking Number/
+/NSFW/i
+/Squirt/i
+/Your personal data has leaked due/i
