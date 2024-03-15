@@ -1,6 +1,6 @@
 # /.+example\.com/i
-/.nelnet\.com/i
-/.duke-energy\.com/i
-/.butlertech\.org/i
-/.citi\.com/i
-/.pnc\.com/i
+/.+nelnet\.com/i
+/.+duke-energy\.com/i
+/.+butlertech\.org/i
+/.+citi\.com/i
+/.+pnc\.com/i
