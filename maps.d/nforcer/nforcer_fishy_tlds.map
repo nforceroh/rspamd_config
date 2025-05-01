@@ -36,6 +36,7 @@
 /.+\.marketo.org$/i
 /.+\.mk$/i
 /.+\.ml$/i
+/.+\.my$/i
 /.+\.ninja$/i
 /.+\.online$/i
 /.+\.ooo$/i
