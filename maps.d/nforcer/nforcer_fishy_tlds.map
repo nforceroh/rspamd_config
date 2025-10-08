@@ -50,6 +50,7 @@
 /.+\.ryukyu$/i
 /.+\.sa.com$/i
 /.+\.science$/i
+/.+\.shop$/i
 /.+\.site$/i
 /.+\.space$/i
 /.+\.stream$/i
