@@ -33,12 +33,13 @@
 /.+\.life$/i
 /.+\.link$/i
 /.+\.loan$/i
-/.+\.marketo.org$/i
+/.+\.marketo\.org$/i
 /.+\.mk$/i
 /.+\.ml$/i
 /.+\.my$/i
 /.+\.ninja$/i
 /.+\.online$/i
+/.+\d\.onmicrosoft\.com$/i
 /.+\.ooo$/i
 /.+\.party$/i
 /.+\.pro$/i
