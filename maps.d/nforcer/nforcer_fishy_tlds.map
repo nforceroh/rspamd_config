@@ -40,6 +40,7 @@
 /.+\.ninja$/i
 /.+\.online$/i
 /.+\d\.onmicrosoft\.com$/i
+/.+sms.+\.onmicrosoft\.com$/i
 /.+\.ooo$/i
 /.+\.party$/i
 /.+\.pro$/i
