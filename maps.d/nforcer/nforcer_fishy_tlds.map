@@ -14,6 +14,7 @@
 /.+\.cricket$/i
 /.+\.date$/i
 /.+\.desi$/i
+/.+\.digitalmailtrail.com$/i
 /.+\.download$/i
 /.+\.estate$/i
 /.+\.faith$/i
@@ -39,8 +40,7 @@
 /.+\.my$/i
 /.+\.ninja$/i
 /.+\.online$/i
-/.+\d\.onmicrosoft\.com$/i
-/.+sms.+\.onmicrosoft\.com$/i
+/.+\.onmicrosoft\.com$/i
 /.+\.ooo$/i
 /.+\.party$/i
 /.+\.pro$/i
