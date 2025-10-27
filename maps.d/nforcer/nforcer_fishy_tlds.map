@@ -4,6 +4,7 @@
 /.+\.best$/i
 /.+\.bid$/i
 /.+\.biz$/i
+/.+\.bn$/i
 /.+\.care$/i
 /.+\.cf$/i
 /.+\.click$/i
