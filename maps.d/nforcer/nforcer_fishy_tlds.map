@@ -1,8 +1,10 @@
 /.+\.accountant$/i
 /.+\.art$/i
 /.+\.asia$/i
+/.+\.best$/i
 /.+\.bid$/i
 /.+\.biz$/i
+/.+\.bn$/i
 /.+\.care$/i
 /.+\.cf$/i
 /.+\.click$/i
@@ -13,9 +15,11 @@
 /.+\.cricket$/i
 /.+\.date$/i
 /.+\.desi$/i
+/.+\.digitalmailtrail.com$/i
 /.+\.download$/i
 /.+\.estate$/i
 /.+\.faith$/i
+/.+\.feelsaferr\.com$/i
 /.+\.fit$/i
 /.+\.flights$/i
 /.+\.ga$/i
@@ -32,11 +36,14 @@
 /.+\.life$/i
 /.+\.link$/i
 /.+\.loan$/i
-/.+\.marketo.org$/i
+/.+\.marketo\.org$/i
 /.+\.mk$/i
 /.+\.ml$/i
+/.+\.my$/i
 /.+\.ninja$/i
 /.+\.online$/i
+/.+\.onmicrosoft\.com$/i
+/.+\.outlook\.com$/i
 /.+\.ooo$/i
 /.+\.party$/i
 /.+\.pro$/i
@@ -48,6 +55,7 @@
 /.+\.ryukyu$/i
 /.+\.sa.com$/i
 /.+\.science$/i
+/.+\.shop$/i
 /.+\.site$/i
 /.+\.space$/i
 /.+\.stream$/i

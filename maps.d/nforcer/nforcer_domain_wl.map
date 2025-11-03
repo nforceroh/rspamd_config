@@ -16,6 +16,7 @@
 /.+dukeenergy\.com/i
 /.+ebay\.com/i
 /.+everwash\.com/i
+/.+express-scripts\.com/i
 /.+fitbit\.com/i
 /.+ge\.com/i
 /.+gmail\.com/i
@@ -27,7 +28,6 @@
 /.+krogermail\.com/i
 /.+luxgroup\.net/i
 /.+martintwingles\.com/i
-/.+microsoft\.com/i
 /.+monroefamilypethospital\.com/i
 /.+monroelocalschools\.com/i
 /.+monroeohio\.org/i
@@ -36,12 +36,13 @@
 /.+netflix\.com/i
 /.+nforcer\.com/i
 /.+ohio\.gov/i
-/.+outlook\.com/i
 /.+pnc\.com/i
 /.+pphosted\.com/i
 /.+radon\.com/i
+/.+rxorder\.walgreens\.com/i
 /.+rr\.com/i
 /.+slickdeals\.net/i
 /.+st\.com/i
 /.+studentaid\.gov/i
 /.+ti\.com/i
+/.+voip\.ms/i
