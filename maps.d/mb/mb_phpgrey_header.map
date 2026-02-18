@@ -1,0 +1,76 @@
+#
+# Some non php headers are listed these will be split in the future
+#
+#
+#
+/\/pcaiyo\.php/
+/\/test1\.php/
+/.*wp-content\/themes/.*/
+/.*wp-includes\/.*/
+/.*rkro\/jserv\/main.*/
+/.*wp-content/upgrade\/.*/
+/functionality\/Gmailsmtp\.php/
+/X\-Bounce\-Tracking\-Info\:/
+/X\-PHP\-Originating\-Script\: 99\:/
+/drop\_meta\:/
+/X\-Mailer\: My e\-mail client v1\.0/
+# used in phishing tests 
+/X\-Mailer\: Custom Mailer 1\.0/
+/X\-PHP\-Script\: .*\/upload\//
+# temp phishing
+/X\-SFDC\-EmailCategory\: apiMassMail/
+#temp bulk
+/Nylas\-ApolloApp/
+# jrmp
+/X\-PHP\-Script\: ukuldacoop\.org\/index\.php/
+#temp
+#/X\-Mailer\: Python/
+/X\-Mailer\: Smart_Send\_4\_4\_2/
+#/X\-Msmail\-Priority\: High/
+# outgoing microsoft tagged as spam
+# moved to a different header over time
+# grey as according to ms there could be fp
+/X\-Forefront\-Antispam\-Report\: \;SFV\:SPM\;/
+/X\-Mailer\: SendMailLecom/
+#temp bulk
+/Agent\: Netscape/
+#compromised phish
+/\/default\_page\/index\.php/
+# temp
+/X\-From\-Rewrite\:(.*)actual sender (is not the same|does not match)/
+#saw this is a spam email 
+/X\-Courier\-Amap\: REDACTED/
+# consider moving this to a map for incorrect cpanel headers
+#cpanel doesn't actually show this specific header
+#
+/X\-Anti\-Abuse\: Please report abuse to\s/
+#testing this will exclude others
+/\/wp\-content\/plugins\//
+# smtp compromises
+/^Resent\-From\: admin\@localhost/
+/^Organization\: Foobar Inc\./
+/^Reply\-To\: noreply\@booking\.com/
+/X\-Xyz\-inst\: Helpdesk/
+/X\-Get\-Message\-Sender\-Via\: server11\.dnsbg\.uk\: authenticated\_id\: europakg/
+/X\-Authenticated-Sender\: server11\.dnsbg\.uk\: europakg/
+/Dh\-Notification\-Type\: document\-email\-ATTACHMENT/
+/X\-Mailer\: MailBee\.NET/
+#Subject: =3D?us-ascii?Q?[DOMAIN_FOR_SALE]_Your_site_has_updated_to_Word?= bounces
+/X-AuthUser\: graphite/
+# used in spam could be a mistake for legit users but needs to be corrected
+/List-Unsubscribe\: (.*)\{\{email\}\}\>/
+# List-Unsubscribe 	<https:///wp-admin/admin-ajax.php? 
+/^List\-Unsubscribe\:.*\/(wp\-admin|wp\-includes)\/.*\.php/
+#  	from 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa ([31.143.166.204]) 
+/from 1\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.0\.ip6\.arpa \(\[/
+/X\-Mailer\: Microsoft CDO for Windows 2000/
+/^Organization\: noreply/
+#X-Var: 154905-37-4-1-8-1-2- was random
+/X-Var:\s(.*)\-/
+/X\-Origin\: MailerModoC/
+/X-Mailer\:\sSpark\sMail/
+/X\-Source\-Dir\: ES6/
+/X\-Mailgun\-Tag\: Customer Journey/
+/X\-Feedback\-Id\: eefa337ebf89eefae/
+/X\-Php\-Script\: grupovtk\.mx\/index\.php/
+/X\-Msmail\-Header\: Claimxperts/

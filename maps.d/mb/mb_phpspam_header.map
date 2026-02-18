@@ -1,0 +1,332 @@
+#
+#
+#
+# PHP spam headers
+# these headers are found in php scripts
+# they may be compromised scripts, plugins or folders we do not expect email from
+#
+/private\_html\/lf28\.php/
+/\/lo\.php/
+/\/lf\.php for/
+/images\/mail\.php/
+/src\/Interop\/Container\/Exception/
+/public\_html\/faq\.php/
+##
+## lets encrypt there should be no scripts from here
+##
+/\.well-known\//
+##
+##
+## general spam areas seen in the past
+##
+/.*rootz\/index/
+/eng\/auth/
+/vendor\/phpunit\/phpunit\/src\/Util\/PHP/
+/hh\/z\/upgrade\/index.*/
+#
+# basic wordpress protection amd malware
+#
+/\/wp\-content\/plugins\/FORTRAN\/
+/\/wp\-content\/plugins\/(.*)\/common\//
+/\/wp\-admin\/expect\.php/
+/\/wp\-admin\/user\//
+/\/wp\-admin\/css\//
+/\/wp\-admin\/images\//
+/\/plugins\/wp\-module\-create\//
+/\/wp\-content\/plugins\/vfvtaxlsow\//
+/\/wp\-content\/plugins\/accretion\//
+/\/wp\-content\/plugins\/wp\-needs\-desk\//
+/\/wp\-content\/plugins\/103\//
+/\/wp\-content\/plugins\/update\//
+/\/wp\-content\/plugins\/wp\-cyberstructure\-muscle\//
+/\/wp\-content\/plugins\/woocommerce\/packages\/woocommerce-admin\/includes\/emails\/view/
+/wp\-includes\/SimplePie\/index.*/
+/wp\-includes\/old\//
+/wp\-content\/themes\/skanda\//
+/wp\-admin\/wp-image\//
+/wp\-content\/uploads\//
+/\/wp-content\/themes\/twentytwentytwo\//
+/\/plugins\/dhueqzliuz/
+/\/plugins\/wp\-automatically\-skeletal\//
+/\/wp\-content\/plugins\/Mackinac\//
+/\/wp\-help\/admin\/wp\-mail\.php/
+# wp-content/plugins/wp-industry-programmable/index.php for 196.89.50.111
+/\/wp\-content\/plugins\/wp\-industry\-programmable\//
+#/lp/october-lp/wp-content/plugins/wp-musculoskeletal-carnot/index.php for 217.25.82.197
+/\/wp\-content\/plugins\/wp\-musculoskeletal\-carnot/
+/wp\-content\/plugins\/.+\/jserv\/main/
+#plugins/WordPressCore/.361525450241780.php
+/\/plugins\/WordPressCore\//
+/wp\-content\/themes\/izo\/index/
+#
+# end wordpress
+#
+# other random areas
+#
+/vendor\/aws\/aws\-sdk\-php\/src\/MWAA\/Exception/
+/vendor\/composer\/installers/
+/dhl\/verification\//
+/assets\/css\/.+\.php/
+/\/assets\/js\/dist\//
+/alili\/kevin/
+/czvhpfj/
+/wp\-includes\/Doc\/update\/index/
+/wp\-admin\/xlx\/Wp-images\//
+/js\/editor\/langs\/signin.php/
+/updatedwebmails\//
+/onedrive\/index.php/
+/3index\.php/
+#
+# this could be a false positive use seen header for specific users
+# happened one time on hundreds of thousands of users
+#
+/eval\(\)\'d/
+/wp\-admin\/wp-css.php/
+/ultimate\-faqs\/lib\/PHPSpreadsheet/
+/leafmailer2\.8\.php/
+/leafindex\.php/
+/xmrlpc\.php7/
+#
+# x-mailers
+#
+/User\-Agent\: \%xmailer\%/
+/X\-Mailer\: gophish/
+/X\-Mailer\: BT Internet Solution/
+/X\-Basq\-Mailer/
+/X\-Mailer\: MBM/
+/X\-Mailer\: PHP Line/i
+/X\-Mailer\: MailDroid/
+/X\-Mailer\: Salesmate\.io/
+/User\-Agent\: ProfiMailGo/
+/Organization\: Nexl\.lt/
+/Organization\: NEXI/
+/Organization\: Anglo American Sur S\.A\./
+/Organization\: USA Citibankgroup/
+#
+#
+#
+/aenycloud\.com\/mailbox\.php/
+/74\.50\.95\.34\/inbox\.php/
+/wp\-admin\/555/
+/plugins\/FORTH\/ml\.php/
+/wp\-content\/plugins\/scarcelyew\/ml\.php/
+/wp\-content\/plugins\/burning\/mm\.php/
+/files\/popup\_image\//
+#
+#x-php
+#
+#
+/X\-Php\-Originating\-Script\: 10191\:m\.php/
+/X\-PHP\-Originating\-Script\: [0-9]{2,4}\:Fumon\.php/i
+/X\-PHP\-Originating\-Script\: [0-9]{2,4}\:MailE\.php/i
+/X\-PHP\-Originating\-Script\: [0-9]{2,4}\:LAMO\.php/i
+/X\-PHP\-Script\: .*\/install\//i
+/wp\-includes\/app\.php/
+/X\-PHP\-Script\: yildiz\-dogan\.com\.tr/
+/X\-PHP\-Script\: amrutiya\.net/i
+/X\-PHP\-Originating\-Script\: [0-9]{2,4}\:tellafriend\.php/i
+/X\-PHP\-Script\: [^\s]*\/\.[^\s]*\.php/
+#
+#
+#
+# ispot.cc
+# this will never send email 
+#
+/X\-Authuser\:.*\.ispot\.cc/i
+#
+#
+#
+/ckeditor\/ckfinder\/skins/
+/REMOTE_ADDR\: 46\.60\.79\.158/
+/REMOTE\_ADDR\: 45\.154\.138\.217/
+/REMOTE\_ADDR\: 31\.173\.85\.109/
+/REMOTE\_ADDR\: 164\.92\.180\.144/
+/REMOTE\_ADDR\: 109\.248\.11\.231/
+/Reply\-To\: \"sample\@email\.tst\"/
+##
+##
+/upload\/sendme\.php/
+/X\-PHP\-Filename\:\s*\/\S*\/images\/\S*\s/
+##
+##
+## PHP ip spam
+##
+/\/check\.php for/
+/php for 159\.203\.120\.5/
+/php for 80\.85\.246\.144/
+/php for 88\.210\.11\.43/
+/php for 5\.45\.37\.169/
+/php for 65\.111\.28\.90/
+/php for 196\.114\.160\.244/
+/php for 139\.47\.124\.216/
+/php for 15\.228\.79\.182/
+/php for 190\.45\.19\.129/
+/php for 176\.240\.97\.71/
+/php for 5\.199\.169\.248/
+/php for 64\.44\.18\.107/
+/php for 129\.222\.203\.116/
+/php for 23\.94\.126\.26/
+/php for 65\.108\.44\.169/
+/php for 196\.89\.50\.111/
+/php for 217\.25\.82\.197/
+/php for 162\.245\.222\.105/
+/php for 115\.126\.110\.211/
+/php for 172\.93\.203\.214/
+/php for 179\.6\.18\.148/
+/php for 67\.227\.35\.232/
+/php for 23\.94\.39\.31/
+/php for 94\.249\.160\.108/
+/php for 184\.174\.67\.78/
+/php for 94\.249\.160\.242/
+/php for 82\.211\.2\.161/
+/php for 120\.188\.34\.122/
+/php for 170\.80\.135\.106/
+/php for 5\.78\.55\.169/
+/php for 105\.155\.96\.170/
+/php for 104\.143\.43\.69/
+/php for 168\.232\.207\.1/
+/php for 94\.198\.43\./
+/php for 138\.199\.60\./
+/php for 81\.19\.135\.37/
+/php for 209\.145\.56\.2/
+/php for 185\.183\.33\.108/
+/php for 120\.29\.68\.24/
+/php for 200\.185\.206\.57/
+/php for 191\.96\.168\.68/
+/REMOTE\_ADDR\: 52\.91\.36\.220/
+/REMOTE\_ADDR\: 31\.173\.85\.196/
+/REMOTE\_ADDR\: 31\.173\.81\.74/
+/REMOTE\_ADDR\: 217\.59\.154\.253/
+/REMOTE\_ADDR\: 45\.15\.72\.238/
+/REMOTE\_ADDR\: 110\.67\.242\.76/
+/REMOTE\_ADDR\: 20\.240\.136\.164/
+/php for 154\.202\.112\.143/
+/php for 45\.80\.158\.24/
+/php for 102\.88\.82\.64/
+/php REMOTE\_ADDR\: 102\.88\.82\.64/
+/php for 181\.58\.16\.24/
+/php for 96\.41\.160\.184/
+/php for 100\.16\.168\.76/
+/php REMOTE\_ADDR\: 45\.3\.56\.247/
+/php for 149\.102\.244\.35/
+/php for 154\.118\.3\.32/
+/php for 156\.207\.32\.25/
+/REMOTE\_ADDR\: 156\.207\.32\.25/
+/REMOTE\_ADDR\: 89\.187\.165\.174/
+/REMOTE\_ADDR\: 104\.221\.170\.182/
+/REMOTE\_ADDR\: 196\.238\.40\.219/
+#END
+## rarer user id + php form these are temp
+/36586\:kaww\.php/
+/3505\:contact\.php/
+# end
+#usually compromised
+/X\-AuthUser\: xinfoadminx/
+/X\-AuthUser\: supnewday/
+/X\-AuthUser\: smtpfox/
+#trying to spam
+/X\-Authuser\: pocolpre\@ion\.dnsprotect/
+/X\-Authuser\: donotre2\@sc2022\.conectarhosting/
+# form generates unsolicited bounces
+/X\-AuthUser\: faceso@server\.motherservers/
+/X\-AuthUser\: .*\@omaralamos\./i
+# compromised
+/X\-Authuser\: organikadacayi/
+/X\-Authuser\: tjfnkvte/
+/X\-Authenticated\-Sender\: cpamg09\.likuid.com\: website\@rpnettoyeur\.com/
+/X\-Authenticated\-Sender\: cleul01\.likuid.com\: atelie18/
+/X\-Authenticated\-Sender\: cleul01\.likuid\.com\: jeanrouv/
+/X\-Authenticated\-Sender\: hz0478\.vps\.iamemonline\.com\: noreply\-abax\-admin\@/
+# php script and folders
+/\/78\_sml\.php/
+/\/public\_html\/img\//
+/\/img\/producto\//
+/\.hm\/hmw\.php/
+/\/includes\/js\//
+/\/admin\/view\/stylesheet\//
+/\/26d6d06bab\.php/
+/\/qccjam\.php/
+/\/wynksp\.php/
+/\/av\.php/
+/frbodboc\/destination56\.com/
+/\/home\/digifoxmedia\//
+/\/ai\-fix\-assessments\-2340.min\.php/
+/\/\.978811819093652\.php/
+/\/\.380851073027697\.php/
+/\/\.948128488640969\.php/
+/\/\.934280185431404\.php/
+/\:z\.php/
+/\/z\.php/
+/\/mo\.php/
+/\/m1\.php/
+/Drs\-Mail\.php/
+/\:indexx\.php/
+#obviously not php but a header
+/List\-Unsubscribe\: \<mailto\:unsubscribe\@domain\.com/
+/List\-Unsubscribe\: \<mailto\:unsubscribe\@example\.com/
+/List\-Unsubscribe\: \<https\:\/\/proxvenomer\.com\//
+/ismtpd0117p1mdw1\.www\.tumpe\.ru/
+/ismtpd0117p1mdw1\.piter\.ru/
+#compromised
+/X\-Php\-Script\: laleli\.com\.br/
+/\/\.504989318406818\.php/
+#X-Php-Script 	otorteiro.com.br/.414127602262151.php for 162.245.222.105 
+/X\-Php\-Script\: otorteiro\.com\.br/
+/X\-Php\-Script\: atelier\-13\.fr/
+/\/\.414127602262151\.php/
+/\/\.361525450241780\.php/
+/\/\.750784195171373\.php/
+#X-Php-Filename 	/home/aresixc1/public_html/iuujdkoloz.php REMOTE_ADDR: 65.108.44.169 
+/\/iuujdkoloz\.php/
+/X\-Ebs\: http\:\/\/emailer\.smseasy\.in/
+# php script and user compromised
+/X\-Php\-Originating\-Script\: 2178\:mm\.php/
+/TtFR4uUBIi\.php/
+# exploitable script
+/X\-Php\-Originating\-Script\: 1387\:z\.php/
+# exploitable script
+/\/metaboxl\/library\.php/
+# exploitable script
+/\/gi4l\/app\.php/
+#compromised
+/X\-Authenticated\-Sender\: drift\.httpnoc.com\: usamaa\.safdar/
+/Mailing\-List\: list rank\.better\@wntwhitelabelsolutions\.com/
+#X-Php-Script 	jean-rouve.com/owlmailler.php for 213.137.138.113, 213.137.138.113 X-PHP-Originating-Script: 1102:owlmailler.php 
+/owlmailler\.php/
+/\/test123Cp\.php/
+/\/(public|private)\_html\/\.tmb\//
+#X-Php-Script 	meme.centriot.com/lib.php for 139.47.124.216 
+/^X-Php-Script:\s\S+\/lib\.php\s/
+/^X-Source-Dir:\spepin\.ca\:\/public\_html/
+#temp 
+/From\: test\@ghostforhost\.com/
+/\/admin\/view\/stylesheet\//
+/X\-Mailer\: Google Clouds \- \*\*/
+/X\-Authuser: jlgmarketingestrateg/
+/X\-Forwarding\-Service\: ImprovMX v3\.0\.0/
+/Received\: from \[154\.127\.53\.162\]/
+/From\: E\-Sign \<no\-reply@e\-sign\.co\.uk\>/
+/Sender\: no\-reply@e\-sign\.co\.uk/
+/Reply\-To\: statement\@ssa\.gov/
+#end temp
+/X\-Php\-Originating-Script\: 1192\:lyak\.php/
+/X\-Mailer\: VORTEX\-S3NDER/
+/\/wp\-includes\/security\.php/
+# X-Mailer      GLK95qCEIHIqYwDbt4Z8
+/X\-Mailer\: [a-zA-Z0-9]{20}/
+/X\-Mailer\: BillionMail/
+/\/wp\-content\/plugins\/file\-manager\-advanced\//
+# compromised
+/X\-Sender\: seguranca_empresarial_bbpj23988/
+/php for 37\.19\.223\.250/
+/X\-Php\-Originating\-Script\: 6875663\:me.php/
+/List\-Unsubscribe\: \<https\:\/\/yourdomain\.com\//
+/List\-Unsubscribe\:(.*)\@mesagerie\.fr/
+/List\-Unsubscribe\: \<mailto\:unsubscribe\@nbcoiling\.com/
+/List\-Unsubscribe\: mailto\:jfouriemail2@\gmail\.com/
+/X\-Abuse\:\sPlease report abuse here \<mailto\:abuse@email\.com/
+#X-Mailer 	V1P3RBOX v2.18-Ref96 
+/X\-Mailer\:\sV1P3RBOX\sv/
+/X\-Mailer\:\sAatjeJobs Inferno Mailer v2\.0/
+/Feedback\-Id\: default\:office\-365\-notifications\@/
+/Mail\-Reply\-To\: (.*)\@pres.fit/

@@ -1,0 +1,497 @@
+#
+#
+# Basic phrase match of spam
+# 
+#
+#
+/myGov Centrelink profile/
+/Thank you for choosing Bell MTS/
+/To Un\-subscribe\: Reply\-with\"NO\"/
+/pieprince\.ru/
+/tatameme\.com/
+# temp
+/Sent by https\:\/\/google\.com/
+#manual
+/We received your request to shut down your email account/
+/Action required for your assets/
+/To buy this pill by our special price/i
+/We provide you with important information on behalf of Booking/i
+/We.are.contacting.multiple.prospects.for.this.domain/i
+/kskduios78+unsubscribe/i
+/client.had.approached.me.with.a.mandate.to.seek/i
+/BLOCKED.INCOMING.MAIL.ACCESS/i
+/You.have.reach.the.message.re-activation.point/i
+/kindly.leave.a.message.to.my.email.for.easiest.communication/i
+/1st.Page.on.Google/i
+/website.to.get.on.first.page.of.Google/i
+/Sequel.to.the.meeting.held.with.Federal.Bureau.of.Investigation/i
+/beneficiary.to.claim.these.funds/i
+/assist.me.relocate.my.funds/i
+/I.have.a.lucrative.business.opportunity.for.you/i
+/give.us.profits.in.the.short.term.without.fail/i
+/Urgently.for.something.important.i.want.to.discuss/i
+/spend.this.money.on.charitable.projects/i
+/inherit.it.if.I.die/i
+/wanted.to.reach.out.to.ask.if.you.would.be.interested.in.a.no.cost.or.obligation/i
+/Do.you.have.any.interest.in.New.design.and.goods.prices/i
+/price.of.one.unit.as.well.as.discounts.on.bulk.orders/i
+/No.more.follow.ups?.Please.reply.with.EXCLUDE/i
+/speak.with.you.about.lead.generation/i
+/have.to.restart.you.mail.server.to.avoid.interruption/i
+/Please.refer.to.attachment.for.our.purchase.inquiry/i
+/VAUCH.Information.Technology.Private.Limited/i
+/Reduce.your.Web.Application.Development.efforts/i
+/Would.you.be.interested.in.acquiring.Amazon.S3/i
+/To.opt-out.please.reply.with.Leave.Out.in.the.Subject.Line/i
+/I.represent.a.group.of.Chinese.investors/i
+/notice.of.the.unclaimed.fund/i
+/Kindly.find.attached.flyer.and.loan.application.form/i
+/upon.receipt.of.your.response.to.this.short.proposal/i
+/If.at.all.you.are.not.interested/i
+/for.successful.and.constant.business/i
+/net.Quota.Upgrade/i
+/you.may.not.be.able.to.send.or.receive.multiple.messages/i
+/via.Money.Gram.or.Western.Union.office/i
+/This.was.caused.due.to.a.system.delay,.Rectify.Below/i
+/Please.See.Keep.Password.file.if/i
+/Please.check.and.confirm.you.still.have.these.product/i
+/message.came.to.you.as.a.surprise/i
+/I.will.need.your.help.in.investing.the.sum/i
+/Millions.Lottery.de.la.Copa.Mundial/i
+/Your.recent.request.to.deactivate.your.e-mail.will.be.processed/i
+/I.have.a.very.interesting.business.proposal.for.you/i
+/My.father.was.a.business.and.wealthy.cocoa.merchant/i
+/contacting.you.seeking.for.your.cooperation.to.transfer.the.Balance.payment/i
+/I.have.a.deal.proposal.for.you/i
+/Let.me.know.if.you.are.interested.in.our.previous.request/i
+/I.am.a.freelance.financial.consultant/i
+/URGENT.WARNING.FROM/i
+/I.have.a.profitable,.legitimate,.risk-free.business.transaction/i
+/interested.to.discuss.opportunities.between.us/i
+/and.you.will.no.longer.hear.from.us/i
+/global.enterprise.server.market.is.anticipated.to.achieve.a.CAGR/i
+/lawyer.from.your.country.who.died.in.a.car.accident/i
+/New.mail.server.update.from.webmail/i
+/PPC.advertising.is.the.best.option.that.helps.you.generate.good.ROI/i
+/hjhjjhkjkjkjhjjh/i
+/million.Dollars.America.Lottery.prize/i
+/We.need.very.large.quantities.of.these.products/i
+/tender.for.the.purchase.of.your.products.in.large.quantity/i
+/I.have.substantial.amount.of.money.deposited.in.a.security.vault/i
+/due.to.server.security.measures/i
+/Log.on.to.portal.below.to.recover.your.delay.message/i
+/long.time.cancer.of.the/i
+/decided.to.donate.the.sum.of/i
+/An.email.verification.is.required.to.continue.using.this.email/i
+/My.father.was.a.wealthy.businessman.before.his.untimely.death/i
+/The.Thor.Group.provides.data.analytics.professionals/i
+/recruitment.services.from.Pakistan/i
+/am.affiliated.with.a.SEO.company/i
+/Are.you.interested.in.SEO.services/i
+/best.SEO.proposal/i
+/am.banker.by.profession/i
+/confirm.to.us.if.your.company.have.new.stock/i
+/E-mail.Access.expires.today/i
+/iPhone,.Mobile.Application.Development/i
+/processing.of.your.payment.to.you/i
+/United.Nations.department.of.Millennium.Development.Goals/i
+/claim.your.payment.without.any.hitch/i
+/Palliative.Care.payment.sum.of/i
+/May.I.know.if.you.are.interested.in.any.of.our.offered.Magento.related.services/i
+/Receive.premium.brand.medication.products.here/i
+/Access.world.class.brand.treatment.production.here/i
+/Attain.best.in.the.world.generic.and.brand.treatment.production.here/i
+/You.can.use.it.to.redirect.its.traffic.to.your.current.website/i
+/Lloyd's.Bank.Plc/i
+/25.Gresham.Street/i
+/1BLm91F6RgNFj1NsAmobWjwFUMQLp6cNkG/i
+/was.a.zero.day.security.vulnerability.on.Zoom.app/i
+/perform.sex.act.to.be.clear/i
+/looking.for.mobile.apps.development/i
+/label.became.almost.illegible/i
+/parcel.shipped.from.a.government.agency/i
+/I.have.a.business.Proposal/i
+/CORONA.VIRUS.VICTIMS.COMPENSATION/i
+/Don\'t.want.to.receive.email\?.Reply.with.\"remove\"/i
+/Hello.from.Facebook.Reset.link/i
+/Marketing.Initiatives.like.Email.Marketing/i
+/Marketing.and.Direct.mailings/i
+/Account.Update.Notification/i
+/Upgrade.Mailbox.Quota/i
+/Are.you.planning.to.acquire/i
+/verified.email.addresses/i
+/Please.respond.with.\"REMOVE\".if.you.do.not.wish.to.be.included.in.any.future/i
+/SpeciaI.DlSCOUNT/msi
+/We.are.contacting.several.people.for.this.domain/i
+/Hello.dear\?/i
+/Front.running.bot/i
+/Credit.Information.Center.in.the.off\-chain world/i
+/Make.investors.lose.money.right.after/i
+/urgent.business.deal/i
+/IDBTE4M.BOT.V87/i
+/docgishell/i
+/Please kindly use the button below to continue with the same password/i
+/for.sale.at.GoDaddy/i
+/vendor\/cpanel\.php/i
+/\/cpanel\.php\?token\=/i
+/\/cp\.php\?token\=/i
+/verify your account can lead to permanent suspension/i
+/May I send you our LogoMats price\-list\?/
+/We can deliver high\-quality OpenCart based eCommerce/i
+/The interserver\.net Team/i
+/interserver\.net Mail Team/i
+/Power\-ball lottery in California/
+/This charge would appear on your statement as PAYPAL\*COINBASE within 24 hours/i
+/All unverified accounts will be suspended on/i
+/Our system has shown that your MetaMask wallet/i
+/up a charity organization in your country/i
+/I Have Need Guest Post At Your Site/
+/To restore account use the following link\: Log in to Online Banking/iu
+/Send me your what\-sap number so we can/
+/and your customers since we can offer high margins on a per\-domain basis/
+/Yesterday evening I purchased all over/i
+/bucks worth of products through your shop/i
+/to get cash from my credit card and the payment was declined/i
+/additionally enclosing my statement to confirm the drawback of the funds/i
+/interserver\.net password is set to Expire today/i
+/Scaneado por\:IT\-Seguridad/
+/Check these quality websites to sell post and link insertions/
+/I wanted to send a quick follow up to see if you received my e\-mail last/
+/it was impossible to get cash from my card and the payment/i
+#german loan
+/Zoekt u nog steeds een lening/i
+/Financial robot may bring you millions\!/i
+/Online earnings are the easiest way for financial independence/i
+/visit GoDaddy\.com and search for the domain there/
+/Intend not to be bothered simply react/i
+/first page of Google search/i
+/We are reaching out to many companies for this domain/i
+/The domain can be used to divert its visitors/i
+/Your mailbox has significantly exceeded the limit assigned to you/i
+/This message is generated automatically by the server when you exceed the assigned capacity of your mailbox/i
+/Please follow the instructions in the email to resolve this issue or contact your Interserver network administrator/i
+/The passwогd to your mailbox .*@interserver\.net has expired/i
+/gamesyoub\.com/
+/mail security server/
+/Interserver Web App/i
+/in the hopes I can talk to the person responsible for product add\-ons at your company/
+/mainly deal with the domain name registration in Shanghai/i
+/I have an obligation that I would like you to complete/i
+/No more follow ups\? Please reply with EXCLUDE/i
+/If you are not interested then you can reply with a simple/i
+/We want to place a bulk order in your company/i
+/we want to confirm if your company is still active/i
+/I would like you to be in charge of a matter that needs/i
+/to be resolved with out appointed legal advisors/i
+/The Webmail Team/
+/6834 Cantrell Road \#2024\, Little Rock\, AR 72207/
+/Notification for shipment sales\@interserver\.net/
+/Please reply with \"DELETE\" to stop all future correspondence/i
+/have to retrieve your account: \(.*\) to avoid deactivation/i
+/Attached invoice with payment swift as remitted to your account/i
+/take an opportunity and introduce our company for export related business/i
+/back seeking your cooperation in a matter regarding funds worth/i
+/The Interserver account team/i
+/Louis Vuitton Bags Up To/i
+/partnership with a reliable partner abroad/i
+/Significant Compensation May Be Available/
+/TIME IS LIMITED TO FILE\!/
+/May I have your attention in discussing classified information/i
+/Are you the right person to talk to\? If not\, could you refer me to the right person\?/
+/Costco CHRISTMAS reward for/i
+/personal loans for bad credit\?/i
+/Whether you have good credit or bad credit you can check offers/i
+/How are you my dear/i
+/Would you be interested in a possible business partnership/i
+/Lasting Erections/i
+/ase check the PO and confirm the price and the delivery date/i
+/Please kindly find the signed PO in attached and help sign attached/i
+/ARE YOU PREPARED FOR THE NEXT GLOBAL DOWNTURN/i
+/Attached pls confirm for our immediate settlement/i
+/Please find attached our Purchase Order \(P\.O\.\) No\./i
+/Please find attached swift copy from our bank confirming payment has been received by your bank/i
+/Jai here from Advids/i
+/P\.S\. If you don\'t want to hear from me again\, please let me know/i
+/Jai \|\| Director \& Producer/i
+/Kindly send us quote and \(MOQ\) as the items listed in the attached file is needed/i
+/Grow Your Cock/i
+/Blue Coding LLC \| 8550 NW 17th Street SA17712\, Miami\, Florida 33126/
+/We want to export from your Company/i
+/\ssample\@email\.tst/
+/\ssales\@chromebooksrus.com/
+/wutransferofuganda01\@gmail\.com/
+/If you are interested then I will send you our prices and samples/
+/I am providing guest posting service on hq sites with dofllow links/i
+/secure my inheritance that my late/i
+/I am reaching out to see if there is anything that would like to upgrade\, repair or redesign on your site/
+/Just curious if you\'d be interested in a website upgrade\, repair or redesigning that could be made for very little cost/
+/Affiliated with Freelancer SEO Company/
+/If this is not relevant\, just reply \"REMOVE\"/i
+/Nameleaders\@gmail\.com/i
+/This is a one\-time investment to complete ownership of the domain/i
+/I wrote to you several times to remind you of the pending amount of/i
+/You have an unclaimed relief funds/i
+/Renewable plan of your Norton family/i
+/Did you receive my message or email/i
+/interserver\.net ISP Gateway/
+/Sali AdamsDomain consultant/
+/Buy high\-quality products like cPanels\, Shells/i
+/SMTP\-Mailers\, Leads/i
+/as you requested into your bitcoin portfolio at/i
+/Email Password Center\!/
+/We are China Official Registrar/
+/I am following up on my previous emails to see if you have any/
+/software initiatives that you\'d like to work on and provide you/
+/you must have been trying to contact me regarding the/i
+/logistics services from China to your country/i
+/transferring an abandoned fund into your bank account/i
+/We are closing all old version of our Mailbox as from/i
+/I need a Paid Post with permanent do follow link at this Site\./
+/Release to Mailbox Upgrade Mail Quota Add to Tasks/
+/We are hiring a team\, working from home\, weekly salary/
+/collect debts on behalf of our/
+/We seek a reputable and honest/
+/contacting you to inquire if you can handle a proposed Partnership/
+/I have a charity donation fund that I want/
+/Sync failures occur when a mail user has not Upgraded his/i
+/Donald Trump mardi au palais de justice/i
+/account\-interser/
+/ignorance\, your services will be completely discontinued within a period/
+/Your lottery winning has been approved/i
+/Account Security Info Update/i
+/YOUR EMAIL ADDRESS WILL BE DISABLED IF NOT UPDATED/i
+/Sr\. Demand Generation Manager/
+/Are you available for a quick 5 mins call to discuss this further/
+/SoftAims Remote Engin/i
+/ve discussed some new paragraphs in our agreement/
+/of our users very seriously and we expect all advertisers to follow our guidelines/i
+/wanted to remind you about the IRS Employee Retention Tax Credit/i
+/Are you looking for affordable App Developer\?/i
+/We are not very interested to work with distributors/i
+/FYI\, attached file\./
+/This is our final warning\: if there is no action taken\, your account will be permanently deleted within the next/
+/You can visit our site by copying the link below and placing it in the url in your brows\:/
+/I have selected you to receive a cash donation/i
+/Sent From interserver\.net Scanner/i
+/We discovered an unknown activity on your Discover Card/i
+/Heeft u nog steeds behoefte aan een passende lening/i
+/A Payee was added on your acc please click/i
+/This morning I bought product from your shop in the sum of/i
+/did you receive it\?because I need assistance from you/
+/Our system has shown that your Metamask wallet has not yet been verified/i
+/record in a related bequest unclaimed policy/
+/We are interested in funding your investment project/i
+/warehouse and cannot be delivered due to incomplete address information/i
+/Hi \(first name\) \.\.\. just kidding/i
+/The funds on your Binance wallet are temporarily Blocked/i
+/Your page has been reported for Copyright claims regarding materials/i
+/we provide web and mobile app development/i
+/Your Email account has exceeded the storage limit set by the/i
+/Get \$100 to \$40\,000 In as Soon as the Next Business Day/
+/Reply STOP for Unsubscribe\!/
+/As a result of new laws that impacts the entire banking sector/i
+/Verify your information to deliver your emails/i
+/You have \((\d)\) failed email deliveries/i
+/Your account is breaking our rules\. It is using other accounts/
+/completely deleted from the servers within 48 hours\. Fill in the/
+/SEO Blogger and Outreach Expert/i
+/I would like to inquire about your guestpost/i
+/your Netbank\, and we need to discuss this with you urgently/
+/Discuss with you concerning my late customer/
+/permanently deleted from our servers within 12 hours/i
+/HI\! DEAR INTERSERVER\.INC\,/
+/We have received some complaints that your account is infringing/i
+/We have daily free leeak/i
+/We regret to inform you that your account has been temporarily suspended due to a violation of our Terms of Service/i
+/Please let me know if you got my previous email\? We need to talk\, reply/
+/Kindly let us know if you would be interested in buying the above mentioned domain/
+/This is my last email to you and you must keep this donation/i
+/so that the gold bars will be transferred to/i
+/Every end of year I secretly select a person in the world who will/i
+/I truly need your help in updating the bank information I have on file/i
+/I would like to present to you a life changing opportunity that will benefit both of us greatly/i
+/You have received a message from the Amazon Support/i
+/Your account is on hold because of a problem with your last/i
+/PAYMENT OF PRIZE AND CLAIM/i
+/Valuecoders Team/i
+/Tucker Carlson interviewing Vladimir Putin could prevent the greatest war in all of human history/i
+/ADVICE\: YOUR OUTSTANDING PAYMENT NOTIFICATION/
+/To continue with existing password kindly proceed/
+/We Build All backlinks do\-follow from your website niche\-related content/
+/I am an outreach employee and I help my clients to grow their reach/
+/Break limit of your business and earn limitless if you want to break limit/
+/Please find attached the Standard Bank IT3\(b\) tax certificate update/
+/was deducted suspiciously from your checking/i
+/Hi my honey bun\, it/
+/You have direct deposit of \$\s/
+/kindly send me your product catilogue/
+/will like to inform you that you made an External Transfer to Barclays Bank Plc/
+/hold on your account\.To ensure your account\'s security is clear/
+/Toolmaking \& Moulding Services in China\./
+/Act Fast\: Collect Your \$50\,000 Prize Today/
+/Act Fast\! This is a limited\-time airdrop\./
+##################
+# spam links
+##################
+/\/JP\/webmail\.php/
+/mail\/upd\/Afo\//
+/94\.198\.43\.74/
+#spam phone
+/7578799262/
+/national\-lottery\.co\.uk/
+/portal\.ertcexpress\.com/
+/stronanschool\.com/
+/WWW\.HORUX\.AL/
+/gengyajing\@grt\-china\.com/
+/blink\@nowbusiness\.info/
+/doug\.guzman20\@gmail\.com/
+/evalground\.com/
+/aiibeauty\.com/
+/montarena\.com/
+/kxjups\.com/
+/HostsManager\.com/i
+/ai\-botix\.com/
+/ilottoclub\.com/
+/seniorenheim\-stvincenz\.de/
+/Crackingmafia\.to/i
+/safeprofileupd\.org/
+/5dollarswildcard\.com/
+/leadcamp\.online/
+/hornoselectricos\.online/
+/blackberry\.inforesheniya\.ru/
+/koinrise\.com/
+/buzblox\.com/
+/quitafacil\.com/
+/cflindia\.org/
+/aa\-adventures\.net/
+/coimbase\-recovery\.com/
+/AKfycbz5MD3EZ0pUnifQn6TJ\_WSKg\_HV4nRXb3KrZYcLg3ulhw36mpsnGEawLBa20Ncuap1F/
+/summeryd\.ru\.com/
+/Important\: \[3\] Complaints About Your Email Account/
+/Is this email not relevant to you\? Click/
+/If you don\'t want to hear from me again\, please/
+/To unsubscribe from this group and stop receiving emails from it\, send an email to sales/
+/To unsubscribe\, reply with \"NO\"/
+#jmrp Wed May 8 00:14:01 EDT 2024
+/smarthost\.link/
+#mail.ru
+/onlinearticles\.org/
+/0secure\.ru/
+/wowblogging\.com/
+/Reply with no for removal/
+/For removal\, please reply with remove\./
+#phishing
+/Please Contact Support at\: \+1 \(802\) 725\-0078 \/ \+1 \(831\) 269/
+/Use the button below if you wish to continue with the same password\./
+/We kindly ask that you withdraw your remaining balance before this date\./
+/We have detected that your Google Cloud account has multiple suspicious/
+/netforum\.avectra\.com/
+/MultiCoin\-Miner 2024 is a mining pool created by a group of cryptocoin enthusiasts/
+/Hi  i am writing about your the price/
+/100\% Inbox Delivery Smtp/
+/Bulk Email Sender Inbox To All/
+/We want to order for your products\, could you please give us your/
+/So that we can remove your contact from our database\./
+/We\'ve made a decision not to postpone your interview unnecessarily and conduct it tomorrow/
+/You have been selected to be considered for a potential employment currently available/
+/I am pleased to inform you that your application for the position of Order /
+/accept this employment offer\, please fill out and sign the agreement\,/
+/Federal Reserve Bank to effect transfer of your total allocated funds/
+/Would you be interested in an e\-mail list of Business Decision Makers with/
+/wavelength and remind you again that there are several vacancies that/
+/I have sent you a couple of emails before but have not heard back from/
+/some reason this was sent in error or you wish not to receive any further messages from us please reply with subject line/
+/If you don\'t want to hear from me again just reply back/
+/we are giving you priority to decide whether you wish to reserve the trademark rights and registration under your name or if we should proceed with the other/
+/I know you didn't ask for this newsletter\; I have just a/
+/dolor quis unde et eum animi ut accusamus eius ut ab quae animi eveniet/
+/mandated by an Offshore Investment Company acting as proxy for Wealthy Oligarchs/
+/Please find the attached filled CONFIDENTIAL BUSINESS QUESTIONNAIRE FORM/
+/Your \$50\,000 Reward Awaits/
+/express our interest in exploring distribution opportunities for/
+/Could you kindly provide us with your best price Quotation for the specified product\?/
+/The biggest platform on earth\, sending me daily commissions\?/
+/Dear lit is very simple code is\:/
+/This is your chance to enhance your crypto portfolio with an exclusive/
+/If you do not wish to receive any further communication please reply on the subject line as UNSUBSCRIBE/
+/As per the trademark law failure to secure trademark protection for your/
+/To comply with recent regulations\, all users must complete a verification process/
+/While looking for some pharmaceutical companies we came across your online presence/
+/\*\*ZeroThreat\.ai\*\*/
+/We have discovered that another party is actively seeking to trademark the logo/
+/The potential trademark conflict could lead to legal challenges\, which may force you to abandon the brand and the investments you have made thus far/
+/I wanted to follow up on the email I sent a couple of days ago regarding a/
+/Roundcube will discontinue support on your account security/
+/\[Prime\] Billing Department/
+#sign up form wp spam
+/EURO KUCOIN/
+/USD KUCOIN/
+/Username\: www\./
+/dgnrwq\.blogspot\.al/
+# end
+/We had a conversation yesterday for your website redesign\,/
+/Claim Free iPhone 15\! Get Details/
+/Ever tried to pay with real paper bills recently\?/
+/At first they used the China virus as an excuse\./
+/There is Drop it explode Yes Com batt battalion who and/
+/Western union attorney to obtain all the necessary documents that will/
+/TOKmate is the only tool that makes going viral in your niche both easy and effortless/
+/I am hereby notifying you of my intent to bring a lawsuit against you for illegal usage of the mark/
+/as urgent if you are ready to receive your Money without any delay/
+/a cheaper way to get an ad read by millions of people\?/
+/noreplyhere\@aol\.com/
+/start receiving your pending messages and have your online payment/
+/I have checked your Profile\, I have a good Offer for you\./
+/Just wondering if you received our last email and have any interest in this beneficial domain/
+/I wanted to reach out to see if you were interested in purchasing an email/
+/Are you looking to send bulk emails to millions of contacts without the limitations/
+/We strongly urge you to settle the outstanding amount without further/
+/Mailbox Update Notification/
+/NO PRESCRIPTION NEEDED/
+/Are you finding yourself overwhelmed with hiring the best AI experts\?/
+/Should we fail to receive confirmation of payment or your intended next/
+/We noticed that some of your account information is outdated\. To ensure/
+/investors are willing to finance any viable project in your country and other parts of the world/
+/agencies and fraudsters and we lost huge money/
+/and initiate a withdrawal within 24 hours/
+/high\-performance electric bikes\, now available with fast and reliable/
+/finds you well\! I\'m excited to share with you our latest range of/
+/believe how much time it took me to find a way to reach you\./
+/I\'m the woman you saw a couple of months ago\./
+/Humanitarian Grant has been awarded to you kindly contact for more info/
+/DOMINATE ME\!\!\! Have you ever had a woman submit to you\?/
+/Kindly let me know if you received the email\; I sent to you yesterday\./
+/this is your chance to be a part of the new digital economy that will shape the future of finance/
+/Sie einen Kredit\, um ein Unternehmen zu/
+/Do you need an ugrent loan\?/
+/Billing partners name \- ZEDTECH SECURE/
+/For help call on  888 581 3086/
+/Dear Instant Bitcoin Payouts/
+/Ready For You \>\>\> http\s:/\/t.me\//
+/Do either 11 am or 1 pm today suit you for a quick call or chat\?/
+/I am sending you my intimate photos as I promised/
+#getting complaints
+/My inbox is full\, please forward your email to my secretary/
+/Want to become a partner\, please share business terms via/
+/URGENT MESSAGE\! Claim Your \$/
+/Username\:\s*www\..*?\.blogspot\..*?\-/
+/\- 1\.[0-9]{1,5}\sBTC BINANCE/
+/Market Rotex Online For All Spamming Tools/
+/Quick \$[0-9]{3,6} Balance Funding Are Possible For New Users/
+/BTC Surprise\! Withdrawal Needed/
+/whatsapp \+48 507 645 789 We are interested on big orders for our clients\./
+/I noticed a few issues on your website while browsing and thought you might/
+/Hello\, we are looking for a supplier whose products we can rese/
+/we have checked your website and it looks like your website has serious SEO issues/
+/Advertise to MILLIONS OF EMAILS\! Immediate SALES BOOM\!/
+/We admire the quality you deliver and think our goals align perfectly\./
+/Contact us on WhatsApp to explore more\: \+1 742 888 1715/
+/Your GeekSquad subscription is scheduled to renew soon\. A fee of USD [0-9]{3}\.00 will be charged for the 1 Year subscription term\./
+/pleased to inform you that your Mcafee subscription has been successfully/
+/has been sent by Mcafee because you are subscribed to our services\.If you/
+#smtp compromise
+/(Item Working|Valid for using) \#[0-9]{8}/
+/ur membership with Webroot has been renewed automatically\. On/
+/Your Cloud Storage Is Full\. Receive 50 GB for FREE/
+#temp
+/\[Manufacture Code NGTOWHK\]/
