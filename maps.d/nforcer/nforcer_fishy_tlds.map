@@ -11,6 +11,7 @@
 /.+\.click$/i
 /.+\.cloud$/i
 /.+\.co$/i
+/\d+\.com$/i
 /.+\.pawpremiere\.com$/i
 /.+\.construction$/i
 /.+\.country$/i
