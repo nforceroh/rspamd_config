@@ -44,6 +44,7 @@
 /.+\.mk$/i
 /.+\.ml$/i
 /.+\.my$/i
+/.+\.name$/i
 /.+\.ninja$/i
 /.+\.online$/i
 /.+\.onmicrosoft\.com$/i
