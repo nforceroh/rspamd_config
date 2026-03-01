@@ -1,4 +1,3 @@
-# /.+example\.com/i
 /.+53\.com/i
 /.+addic7ed\.com/i
 /.+amazon\.com/i
@@ -34,16 +33,17 @@
 /.+namecheap\.com/i
 /.+net\.mail/i
 /.+netflix\.com/i
-/.+nforcer\.com/i
 /.+nf\.lab/i
+/.+nforcer\.com/i
 /.+ohio\.gov/i
 /.+pnc\.com/i
 /.+pphosted\.com/i
 /.+radon\.com/i
-/.+rxorder\.walgreens\.com/i
 /.+rr\.com/i
+/.+rxorder\.walgreens\.com/i
 /.+slickdeals\.net/i
 /.+st\.com/i
 /.+studentaid\.gov/i
 /.+ti\.com/i
 /.+voip\.ms/i
+# /.+example\.com/i
