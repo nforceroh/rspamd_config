@@ -21,7 +21,8 @@
 /.+\.pawpremiere\.com$/i
 /.+\.pw$/i
 /.+\.review$/i
-/.+\.sa.com$/i
+/.+\.ru\.com$/i
+/.+\.sa\.com$/i
 /.+\.site$/i
 /.+\.stream$/i
 /.+\.tk$/i
@@ -33,4 +34,4 @@
 /.+\.website$/i
 /.+\.win$/i
 /.+\.xyz$/i
-/.+\.za.com$/i
+/.+\.za\.com$/i
