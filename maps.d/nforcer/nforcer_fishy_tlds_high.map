@@ -19,6 +19,7 @@
 /.+\.ml$/i
 /.+\.party$/i
 /.+\.pawpremiere\.com$/i
+/.+\.pawgiftsale\.com$/i
 /.+\.pw$/i
 /.+\.review$/i
 /.+\.ru\.com$/i
@@ -26,6 +27,7 @@
 /.+\.site$/i
 /.+\.stream$/i
 /.+\.tk$/i
+/.+\.tt$/i
 /.+\.top$/i
 /.+\.topica\.com$/i
 /.+\.trade$/i
