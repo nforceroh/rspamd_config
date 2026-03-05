@@ -1,2 +1,4 @@
+# /.+example\.com/i
+#/.+walgreens\.com/i
 walgreens@eml.walgreens.com
 bounce@eml.walgreens.com
