@@ -1,8 +1,5 @@
-prayer@hittheriver.com
-info@hittheriver.com
-no-reply@cloudimperiumgames.com
-alertmanager@nf.lab
-
+# Domain whitelist
+# Format: domain.com or /.+domain\.com/i for regex patterns
 /.+53\.com/i
 /.+addic7ed\.com/i
 /.+amazon\.com/i
@@ -51,4 +48,3 @@ alertmanager@nf.lab
 /.+studentaid\.gov/i
 /.+ti\.com/i
 /.+voip\.ms/i
-# /.+example\.com/i

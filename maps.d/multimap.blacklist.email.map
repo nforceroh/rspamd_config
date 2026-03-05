@@ -1,0 +1,4 @@
+# Email address blacklist
+# Format: user@domain.com
+walgreens@eml.walgreens.com
+bounce@eml.walgreens.com

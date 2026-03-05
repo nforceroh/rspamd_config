@@ -1,0 +1,2 @@
+# Domain blacklist
+# Format: domain.com or /.+domain\.com/i for regex patterns

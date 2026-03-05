@@ -1,0 +1,8 @@
+# Email address whitelist
+# Format: user@domain.com
+alerts@pnc.com
+PNCBank_Statements@pnc.com
+prayer@hittheriver.com
+info@hittheriver.com
+no-reply@cloudimperiumgames.com
+alertmanager@nf.lab
