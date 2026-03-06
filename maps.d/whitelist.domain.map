@@ -38,8 +38,10 @@
 /.+nf\.lab/i
 /.+nforcer\.com/i
 /.+ohio\.gov/i
+/.+onemainfinancial\.com/i
 /.+pnc\.com/i
 /.+pphosted\.com/i
+/.+rockauto\.com/i
 /.+radon\.com/i
 /.+rr\.com/i
 /.+rxorder\.walgreens\.com/i
@@ -48,5 +50,5 @@
 /.+studentaid\.gov/i
 /.+ti\.com/i
 /.+voip\.ms/i
-verify.pnc.com
-pnc.com
+/.+verify\.pnc\.com/i
+/.+pnc\.com/i
