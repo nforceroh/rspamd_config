@@ -48,5 +48,14 @@
 /.+studentaid\.gov/i
 /.+ti\.com/i
 /.+voip\.ms/i
-verify.pnc.com
-pnc.com
+/.+anthem\.com$/i
+/.+creditkarma\.com$/i
+/.+hackster\.io$/i
+/.+medicalserviceco\.com$/i
+/.+pnc\.com$/i
+/.+pollen\.com$/i
+/.+rockauto\.com$/i
+/.+selfh\.st$/i
+/.+steampowered\.com$/i
+/.+verify\.pnc\.com$/i
+/.+voip\.ms$/i
