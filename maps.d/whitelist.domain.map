@@ -5,7 +5,6 @@
 /.+amazon\.com/i
 /.+amazonses\.com/i
 /.+anthem\.com$/i
-/.+anthem\.com/i
 /.+avimark1\.com/i
 /.+butlertech\.org/i
 /.+caqh\.org/i
@@ -44,16 +43,17 @@
 /.+ohio\.gov/i
 /.+onemainfinancial\.com/i
 /.+pnc\.com$/i
+/.+planningcenteronline\.com$/i
 /.+pollen\.com$/i
 /.+pphosted\.com/i
 /.+radon\.com/i
 /.+rockauto\.com$/i
-/.+rockauto\.com/i
 /.+rr\.com/i
 /.+rxorder\.walgreens\.com/i
 /.+selfh\.st$/i
 /.+slickdeals\.net/i
 /.+spectrum\.com/i
+/.+spectrumemails\.com/i
 /.+st\.com/i
 /.+steampowered\.com$/i
 /.+studentaid\.gov/i
@@ -61,5 +61,6 @@
 /.+tuya\.com/i
 /.+usps\.com/i
 /.+verify\.pnc\.com$/i
+/.+verizonwireless.com$/i
 /.+voip\.ms$/i
 /.+wellsfargo\.com/i
