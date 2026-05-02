@@ -17,6 +17,7 @@
 /^(.+\.)?ebay\.com$/i
 /^(.+\.)?everwash\.com$/i
 /^(.+\.)?express-scripts\.com$/i
+/^(.+\.)?fandango\.com$/i
 /^(.+\.)?fitbit\.com$/i
 /^(.+\.)?ge\.com$/i
 /^(.+\.)?gmail\.com$/i
@@ -64,3 +65,4 @@
 /^(.+\.)?verizonwireless\.com$/i
 /^(.+\.)?voip\.ms$/i
 /^(.+\.)?wellsfargo\.com$/i
+/^(.+\.)?winix\.com$/i
