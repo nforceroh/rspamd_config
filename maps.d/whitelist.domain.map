@@ -24,6 +24,7 @@
 /^(.+\.)?google\.com$/i
 /^(.+\.)?hackster\.io$/i
 /^(.+\.)?harborfreight\.com$/i
+/^(.+\.)?hilton\.com$/i
 /^(.+\.)?hittheriver\.com$/i
 /^(.+\.)?id\.me$/i
 /^(.+\.)?intuit\.com$/i
