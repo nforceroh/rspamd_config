@@ -1,5 +1,6 @@
 /^(.+\.)?53\.com$/i
 /^(.+\.)?addic7ed\.com$/i
+/^(.+\.)?affirm\.com$/i
 /^(.+\.)?amazon\.com$/i
 /^(.+\.)?amazonses\.com$/i
 /^(.+\.)?anthem\.com$/i
@@ -55,11 +56,13 @@
 /^(.+\.)?rxorder\.walgreens\.com$/i
 /^(.+\.)?selfh\.st$/i
 /^(.+\.)?slickdeals\.net$/i
+/^(.+\.)?snapchat\.com$/i
 /^(.+\.)?spectrum\.com$/i
 /^(.+\.)?spectrumemails\.com$/i
 /^(.+\.)?st\.com$/i
 /^(.+\.)?steampowered\.com$/i
 /^(.+\.)?studentaid\.gov$/i
+/^(.+\.)?synchrony\.com$/i
 /^(.+\.)?ti\.com$/i
 /^(.+\.)?tuya\.com$/i
 /^(.+\.)?usps\.com$/i
