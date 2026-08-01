@@ -60,6 +60,7 @@
 /^(.+\.)?selfh\.st$/i
 /^(.+\.)?sydneyhealth\.com$/i
 /^(.+\.)?slickdeals\.net$/i
+/^(.+\.)?smtp2go\.com$/i
 /^(.+\.)?snapchat\.com$/i
 /^(.+\.)?spectrum\.com$/i
 /^(.+\.)?spectrumemails\.com$/i
