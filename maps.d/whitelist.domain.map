@@ -16,6 +16,8 @@
 /^(.+\.)?creditkarma\.com$/i
 /^(.+\.)?discover\.com$/i
 /^(.+\.)?dukeenergy\.com$/i
+/^(.+\.)?duke-energy\.com$/i
+/^(.+\.)?duke-energyalert\.com$/i
 /^(.+\.)?ebay\.com$/i
 /^(.+\.)?everwash\.com$/i
 /^(.+\.)?express-scripts\.com$/i
@@ -34,6 +36,7 @@
 /^(.+\.)?luxgroup\.net$/i
 /^(.+\.)?martintwingles\.com$/i
 /^(.+\.)?medicalserviceco\.com$/i
+/^(.+\.)?midpointelibrary\.org$/i
 /^(.+\.)?monroefamilypethospital\.com$/i
 /^(.+\.)?monroelocalschools\.com$/i
 /^(.+\.)?monroeohio\.org$/i
@@ -55,6 +58,7 @@
 /^(.+\.)?rr\.com$/i
 /^(.+\.)?rxorder\.walgreens\.com$/i
 /^(.+\.)?selfh\.st$/i
+/^(.+\.)?sydneyhealth\.com$/i
 /^(.+\.)?slickdeals\.net$/i
 /^(.+\.)?snapchat\.com$/i
 /^(.+\.)?spectrum\.com$/i
