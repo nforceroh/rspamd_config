@@ -33,6 +33,7 @@
 /^(.+\.)?id\.me$/i
 /^(.+\.)?intuit\.com$/i
 /^(.+\.)?krogermail\.com$/i
+/^(.+\.)?lanebryant\.com$/i
 /^(.+\.)?luxgroup\.net$/i
 /^(.+\.)?martintwingles\.com$/i
 /^(.+\.)?medicalserviceco\.com$/i
