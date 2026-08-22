@@ -77,3 +77,4 @@
 /^(.+\.)?voip\.ms$/i
 /^(.+\.)?wellsfargo\.com$/i
 /^(.+\.)?winix\.com$/i
+/^(.+\.)?wyze\.com$/i
