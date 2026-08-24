@@ -70,6 +70,7 @@
 /^(.+\.)?studentaid\.gov$/i
 /^(.+\.)?synchrony\.com$/i
 /^(.+\.)?ti\.com$/i
+/^(.+\.)?toyotafinancial\.com$/i
 /^(.+\.)?tuya\.com$/i
 /^(.+\.)?usps\.com$/i
 /^(.+\.)?verify\.pnc\.com$/i
