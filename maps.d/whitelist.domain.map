@@ -54,6 +54,7 @@
 /^(.+\.)?pnc\.com$/i
 /^(.+\.)?pollen\.com$/i
 /^(.+\.)?pphosted\.com$/i
+/^(.+\.)?privacy\.com$/i
 /^(.+\.)?radon\.com$/i
 /^(.+\.)?rockauto\.com$/i
 /^(.+\.)?rr\.com$/i
@@ -76,6 +77,7 @@
 /^(.+\.)?verify\.pnc\.com$/i
 /^(.+\.)?verizonwireless\.com$/i
 /^(.+\.)?voip\.ms$/i
+/^(.+\.)?voipinterface\.net$/i
 /^(.+\.)?wellsfargo\.com$/i
 /^(.+\.)?winix\.com$/i
 /^(.+\.)?wyze\.com$/i
